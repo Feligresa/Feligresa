@@ -1,6 +1,8 @@
-## Computer Science Expert Student
+### Computer Science Expert Student
+
 I'm a first-year student for Application Development,
 focussing primarily on *Python* and *C#*.
+
 ---
 Currently learning the ways of GitHub.
 
