@@ -1,4 +1,7 @@
-## Hi there 👋
+### Computer Science Expert Student
+I'm a first-year student for Application Development,
+focussing primarily on Python and C#.
+---
 
 <!--
 **Feligresa/Feligresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
